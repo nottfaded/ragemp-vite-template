@@ -1,0 +1,4 @@
+﻿<meta>
+  <info name="Secondlife" description="Your gamemode description" />
+  <script src="\bin\Debug\net8.0\NorfMode.dll" />
+</meta>

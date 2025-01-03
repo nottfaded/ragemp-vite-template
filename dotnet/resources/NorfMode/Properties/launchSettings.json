@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "NorfMode": {
+      "commandName": "Executable",
+      "executablePath": "$(SolutionDir)..\\..\\..\\start-server.bat",
+      "workingDirectory": "$(SolutionDir)..\\..\\.."
+    }
+  }
+}
