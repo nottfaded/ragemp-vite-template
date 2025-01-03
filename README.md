@@ -4,7 +4,7 @@ This repository contains a template for building a RAGE MP project with modern t
 
 - **Server-side**: Developed using .NET 8 for powerful and scalable backend functionality.
 - **Client-side**: Managed with Vite for fast builds.
-- **TypeScript Plugin**: The `@ragempcommunity/types-client` plugin is included for enhanced development experience, allowing easy access to RAGE MP methods and properties directly in VS Code.
+- **TypeScript Plugin**: The [@ragempcommunity/types-client](https://www.npmjs.com/package/@ragempcommunity/types-client) plugin is included for enhanced development experience, allowing easy access to RAGE MP methods and properties directly in VS Code.
 
 ## Getting Started
 
