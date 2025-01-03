@@ -1,0 +1,2 @@
+# ragemp vite template
+ 
