@@ -19,8 +19,8 @@ This repository contains a template for building a RAGE MP project with modern t
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/nottfaded/ragemp-vite-template
+   cd ragemp-vite-template
    ```
 
 2. Install client-side dependencies:
